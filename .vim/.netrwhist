@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/bryan/Sites/foodhub/htdocs/app'
+let g:netrw_dirhist_2='/Users/bryan/Documents/Projects/Nike/mapv3'
+let g:netrw_dirhist_3='/usr/include/php'
+let g:netrw_dirhist_4='/Volumes/C/apache2/ohsu-pharmacy/htdocs/app'
+let g:netrw_dirhist_5='/Users/bryan/Sites/columbia-mobileapp'
+let g:netrw_dirhist_6='/Users/bryan/Sites/foodhub-trunk/htdocs/app'
